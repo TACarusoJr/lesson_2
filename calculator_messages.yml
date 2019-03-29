@@ -1,0 +1,8 @@
+greeting: "Welcome"
+loan_amount: "Enter the loan amount"
+apr: "Enter the APR"
+loan_duration: "Enter the loan duration"
+error: "Error"
+payment: "This is your monthly payment"
+end_prompt: "To calculate again, enter Y. To end, enter any other key."
+goodbye: "Goodbye"
