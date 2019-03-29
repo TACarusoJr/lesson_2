@@ -31,7 +31,7 @@ end
 
 def format_apr(apr)
   if integer?(apr)
-    apr.to_f / 100
+    apr.to_f() / 100
   elsif float?(apr)
     apr.to_f()
   end
